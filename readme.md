@@ -71,7 +71,9 @@ _Standalone servers and personal cloud solutions specifically built for WebDAV a
 - [hacdias-webdav](https://github.com/hacdias/webdav) - A simple yet configurable WebDAV server written in Go.
 - [FuguHub](https://fuguhub.com/) - a personal cloud server with a web ui.
 - [Nextcloud](https://docs.nextcloud.com/server/latest/user_manual/en/files/access_webdav.html) - Personal cloud solution. See [demo](https://clouddemo.nextfiles.eu/)
+- [Nephele Serve](https://www.npmjs.com/package/nephele-serve) - File System or S3 Backed WebDAV Server. `Apache-2.0`
 - [ownCloud](https://doc.owncloud.org/server/latest/user_manual/files/access_webdav.html) - Personal cloud solution.
+- [QuickDAV](https://sciactive.com/quickdav/) - Network file transfer app. [Sources](https://github.com/sciactive/quickdav). `Apache-2.0`
 - [phởdav (a.k.a. chezdav)](https://wiki.gnome.org/phodav) - A minimal open source WebDAV server, ideal for sharing one folder (for FreeBSD, Linux, and Windows).
 - [miniserve](https://github.com/svenstaro/miniserve) - A file sharing server, supports read-only WebDAV
 - [sabre/dav](https://sabre.io/) - Open source CardDAV, CalDAV and WebDAV server.
@@ -213,6 +215,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 - [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore) - File manager supporting WebDAV mounts. `Proprietary`
 - [MiXplorer](https://forum.xda-developers.com/showpost.php?p=23109280&postcount=2) - File manager that supports WebDAV. `Proprietary`
 - [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) - backup. `Proprietary`
+- [Owlfiles](https://play.google.com/store/apps/details?id=com.skyjos.apps.fileexplorerfree) - File Manager. `Proprietary`
 - [RCX](https://github.com/x0b/rcx) Rclone sync for Android (unmaintained, use Round Sync). `GPL-3.0`
 - [Round Sync](https://github.com/newhinton/Round-Sync) Rclone sync for Android (fork of RCX). `GPL-3.0`
 - [NextCloud Android App](https://github.com/nextcloud/android) `GPL-2.0`
@@ -256,9 +259,10 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 _General purpose apps to browse and manage files on a WebDAV server_
 
+- [Documents: File Manager & Docs](https://apps.apple.com/us/app/documents-file-manager-docs/id364901807) - PDF Converter & Reader, ZIP/RAR, suppoers WebDAV.
 - [WebDAV Nav+](https://apps.apple.com/app/webdav-nav/id412341302) - Download, share, store and edit files on a WebDAV server.
 - [WebDAV Navigator](https://apps.apple.com/app/webdav-navigator/id382551345) - Download, share, store and edit files on a WebDAV server.
-- [Documents: File Manager & Docs](https://apps.apple.com/us/app/documents-file-manager-docs/id364901807) - PDF Converter & Reader, ZIP/RAR, suppoers WebDAV.
+- [Owlfiles](https://apps.apple.com/us/app/owlfiles-file-manager/id510282524) - File Manager. `Proprietary`
 
 <a name="ios-other-apps" />
 
@@ -318,6 +322,7 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 - [perry-mitchell/webdav-client](https://github.com/perry-mitchell/webdav-client) - WebDAV client written in JavaScript for Node.js and the browser.
 - [unifile](https://github.com/silexlabs/unifile) - Node.js library to access cloud storage which supports WebDAV.
 - [mikedeboer/jsDAV](https://github.com/mikedeboer/jsDAV) - a Node.js port of SabreDAV with support of many features.
+- [nephele](https://www.npmjs.com/package/nephele) - WebDAV, CardDAV, and CalDAV server for Node.js and Express. `Apache-2.0`
 
 ### Python
 
