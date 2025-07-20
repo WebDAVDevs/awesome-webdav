@@ -258,6 +258,7 @@ _General purpose apps to browse and manage files on a WebDAV server_
 
 - [WebDAV Nav+](https://apps.apple.com/app/webdav-nav/id412341302) - Download, share, store and edit files on a WebDAV server.
 - [WebDAV Navigator](https://apps.apple.com/app/webdav-navigator/id382551345) - Download, share, store and edit files on a WebDAV server.
+- [Documents: File Manager & Docs](https://apps.apple.com/us/app/documents-file-manager-docs/id364901807) - PDF Converter & Reader, ZIP/RAR, suppoers WebDAV.
 
 <a name="ios-other-apps" />
 
