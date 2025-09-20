@@ -191,6 +191,7 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 - [gnome-user-share](https://gitlab.gnome.org/GNOME/gnome-user-share) - configure an Apache WebDAV directly from Nautilus
 - [Gnome Gnote](https://wiki.gnome.org/Apps/Gnote) - app for taking notes with WebDAV sync.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
+- [mhabit Table Habit](https://github.com/FriesI23/mhabit) - establish and track your own micro habit. Configure [dav sync](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `Apache-2.0`
 - [PhotoPrism](https://photoprism.app/) AI-Powered Photos App. Supports [sync by WebDAV](https://docs.photoprism.app/user-guide/sync/webdav/)
 - [Floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
 - [RetroArch](https://retroarch.com) - A frontend for emulators and game engines that can use WebDAV for backing up game saves.
@@ -246,6 +247,7 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
+- [mhabit Table Habit](https://github.com/FriesI23/mhabit) - establish and track your own micro habit. Configure [dav sync](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `Apache-2.0`
 - [ntodotxt](https://github.com/tmaegel/ntodotxt) - TODO App with sync via WebDAV. `MIT`
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
 - [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
