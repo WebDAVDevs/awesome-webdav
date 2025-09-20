@@ -191,14 +191,14 @@ _Apps and browser extensions that support WebDAV in some form, e.g. for backup a
 - [gnome-user-share](https://gitlab.gnome.org/GNOME/gnome-user-share) - configure an Apache WebDAV directly from Nautilus
 - [Gnome Gnote](https://wiki.gnome.org/Apps/Gnote) - app for taking notes with WebDAV sync.
 - [KeePass Password Safe](https://keepass.info/) - Password manager that supports WebDAV sync (for Windows).
-- [mhabit Table Habit](https://github.com/FriesI23/mhabit) - establish and track your own micro habit. Configure [dav sync](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `Apache-2.0`
 - [PhotoPrism](https://photoprism.app/) AI-Powered Photos App. Supports [sync by WebDAV](https://docs.photoprism.app/user-guide/sync/webdav/)
 - [Floccus](https://floccus.org/) - Browser extension for bookmark sync that supports WebDAV (for Chrome, Firefox and Edge).
 - [RetroArch](https://retroarch.com) - A frontend for emulators and game engines that can use WebDAV for backing up game saves.
 - [Stylus](https://add0n.com/stylus.html) - Browser extension for custom CSS that can sync with WebDAV.
+- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `AL2` `Dart`  `Apache-2.0`
 - [Violentmonkey](https://violentmonkey.github.io/) - A web browser extension for UserJS management that can sync with WebDAV.
 - [Zotero](https://www.zotero.org/) - an easy-to-use desktop app to collect, organize, annotate, cite, and share research. `AGPLv3` `JavaScript`
-- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with sync via WebDAV. `AL2` `Dart`
+
 
 ## Mobile apps
 
@@ -248,12 +248,11 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 
 - [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin) - Note taking and to-do application that supports WebDAV sync.
 - [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - KeePass-based password manager that supports WebDAV sync. [Sources](https://github.com/PhilippC/keepass2android). `GPL3`
-- [mhabit Table Habit](https://github.com/FriesI23/mhabit) - establish and track your own micro habit. Configure [dav sync](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `Apache-2.0`
 - [ntodotxt](https://github.com/tmaegel/ntodotxt) - TODO App with sync via WebDAV. `MIT`
 - [Orgzly](https://www.orgzly.com/) - Outliner for notes and to-do lists. [Source code](https://github.com/orgzly).
-- [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
 - [pokatomnik/Davno](https://github.com/pokatomnik/Davno) - webDAV NOtes. `WIP`
-- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with sync via WebDAV. `AL2` `Dart`
+- [SimpleTask](https://github.com/mpcjanssen/simpletask-android) - a simple task manager. `GPL3` `Kotlin`
+- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `AL2` `Dart`  `Apache-2.0`
 
 
 ### iOS
@@ -279,11 +278,11 @@ _Apps that support WebDAV in some form, e.g. for backup and sync_
 - [beorg](https://apps.apple.com/app/beorg-to-do-list-agenda/id1238649962) - TO-DO list and agenda app with WebDAV sync support.
 - [GoodReader](https://apps.apple.com/app/goodreader-pdf-editor-viewer/id777310222) - PDF viewer and editor that supports WebDAV sync.
 - [Joplin](https://apps.apple.com/app/joplin/id1315599797) - Note taking and to-do application that supports WebDAV sync.
-- [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - Writing app, a text and markdown editor with WebDAV support.
-- [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
 - [Notability](https://apps.apple.com/app/notability/id360593530) - Note-taking app that supports webDAV for backups.
+- [Notebooks 10](https://apps.apple.com/app/notebooks-write-and-organize/id1490084838) - Writing app, a text and markdown editor with WebDAV support.
 - [PotPlayer](https://potplayer.daum.net/) - Windows only.
-- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with sync via WebDAV. `AL2` `Dart`
+- [Strongbox](https://apps.apple.com/app/strongbox-password-safe/id897283731) - KeePass-based password manager that supports WebDAV sync.
+- [Table Habit](https://github.com/FriesI23/mhabit) – Micro habits tracking app with [sync via WebDAV](https://github.com/FriesI23/mhabit/wiki/Feature%EA%9E%89-WebDAV-Sync). `AL2` `Dart`  `Apache-2.0`
 
 
 ## Libraries
@@ -323,12 +322,13 @@ _Libraries for accessing a WebDAV storage and/or building a WebDAV server_
 - [dav4jvm](https://github.com/bitfireAT/dav4jvm) - dav4jvm is a WebDAV/CalDAV/CardDAV library for JVM (Java/Kotlin) developed for DAVx⁵. `MPL-2.0`
 
 
-### JavaScript
+### JavaScript and Dart
 
 - [perry-mitchell/webdav-client](https://github.com/perry-mitchell/webdav-client) - WebDAV client written in JavaScript for Node.js and the browser.
 - [unifile](https://github.com/silexlabs/unifile) - Node.js library to access cloud storage which supports WebDAV.
 - [mikedeboer/jsDAV](https://github.com/mikedeboer/jsDAV) - a Node.js port of SabreDAV with support of many features.
 - [nephele](https://www.npmjs.com/package/nephele) - WebDAV, CardDAV, and CalDAV server for Node.js and Express. `Apache-2.0`
+- [FriesI23/simple_webdav_client](https://github.com/FriesI23/simple_webdav_client) - Dart library `Dart` `MIT`
 
 ### Python
 
